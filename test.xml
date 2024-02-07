@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CityzenClub Σύσφιξη σώματος άμεσα & αποτελεσματικά</title>
+        <meta name="description" content="CityzenClub Σύσφιξη σώματος. Σύγχρονες λύσεις κατά της χαλάρωσης. Αντιμετώπισε τώρα την χαλάρωση αποτελεσματικά με τις πιο εξελιγμένες μεθόδους.">
+        <meta name="keywords" content="">
+        <meta charset="utf-8">
+        <meta name="author" content="CITYZEN CLUB">
+        <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+        <!-- Base website url -->
+        <base href="/dev.cityzenclub.net" />
+        
+        <!-- Favicons -->
+        <link rel="shortcut icon" href="images/favicon.png">
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/style-responsive.css">
+        <link rel="stylesheet" href="css/animate.min.css">
+        <link rel="stylesheet" href="css/vertical-rhythm.min.css">
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">        
+        
+    </head>
+    <body class="appear-animate">
+        
+        <!-- Page Loader -->        
+        <div class="page-loader">
+            <div class="loader">Loading...</div>
+        </div>
+        <!-- End Page Loader -->
+        
+        <!-- Page Wrap -->
+        <div class="page" id="top">
+
+            <div class="call-us-top-row">
+                <p class="call-us-top-row-inner">
+                    <strong>Καλέστε μας!</strong> 
+                    &nbsp;<i class="fa fa-phone" aria-hidden="true"></i> 
+                    &nbsp;<a href="tel:2431102386">2431-102386</a> &nbsp;Τρίκαλα</p>
+            </div>
+            
+            <!-- Navigation panel -->
+            <nav class="main-nav js-stick">
+                <div class="container-1400 relative clearfix">
+                    <!-- Logo ( * your text or image into link tag *) -->
+                    <div class="nav-logo-wrap local-scroll">
+                        <a href="/" class="logo">
+                            <img src="images/logo-dark.png" alt="" />
+                        </a>
+                    </div>
+                    <div class="mobile-nav">
+                        <i class="fa fa-bars"></i>
+                    </div>
+                    
+                    <!-- Main Menu -->
+                    <div class="inner-nav desktop-nav">
+                        <ul class="clearlist">
+                            <li><a href="/">ΑΡΧΙΚΗ</a></li>
+                            <li><a href="profile/">ΠΟΙΟΙ ΕΙΜΑΣΤΕ</a></li>
+                            
+                            <li class="sub-nav">
+                                <a href="prosopo/">ΠΡΟΣΩΠΟ&nbsp;<i class="fa fa-chevron-down"></i></a> 
+
+                                <ul class="clearlist">
+                                    <li><a href="anaplasi/">ΑΝΑΠΛΑΣΗ</a></li>
+                                    <li><a href="anorthosi-sisfixi-prosopou/">ΑΝΟΡΘΩΣΗ ΣΥΣΦΙΞΗ ΠΡΟΣΩΠΟΥ</a></li>
+                                    <li><a href="antigiransi/">ΑΝΤΙΓΗΡΑΝΣΗ</a></li>
+                                    <li><a href="anaimakti-vlefaroplastiki/">ΑΝΑΙΜΑΚΤΗ ΒΛΕΦΑΡΟΠΛΑΣΤΙΚΗ</a></li>
+                                    <li><a href="akmi/">ΑΚΜΗ</a></li>
+                                    <li><a href="panades-disxromies/">ΠΑΝΑΔΕΣ ΔΥΣΧΡΩΜΙΕΣ</a></li>
+                                    <li><a href="cityzen-plus/">CITYZEN PLUS ΥΠΗΡΕΣΙΕΣ ΟΜΟΡΦΙΑΣ</a></li>
+                                </ul>
+
+                            </li>
+
+                            <li class="sub-nav">
+                                <a href="therapies-somatos/">ΣΩΜΑ&nbsp;<i class="fa fa-chevron-down"></i></a>
+
+                                <ul class="clearlist">
+                                    <li><a href="adynatisma/">ΑΔΥΝΑΤΙΣΜΑ</a></li>
+                                    <li><a href="sysfixi-somatos/">ΣΥΣΦΙΞΗ</a></li>
+                                    <li><a href="afairesi-tatouaz-panades/">ΑΦΑΙΡΕΣΗ ΤΑΤΟΥΑΖ ΚΑΙ ΠΑΝΑΔΩΝ</a></li>
+                                    <li><a href="kolpiki-sisfixi-ananeosi/">ΚΟΛΠΙΚΗ ΣΥΣΦΙΞΗ & ΑΝΑΝΕΩΣΗ</a></li>
+                                    <li><a href="kittaritida/">ΚΥΤΤΑΡΙΤΙΔΑ</a></li>
+                                    <li><a href="ragades/">ΡΑΓΑΔΕΣ</a></li>
+                                    <li><a href="evriaggies/">ΕΥΡΥΑΓΓΕΙΕΣ</a></li>
+                                    <li><a href="therapia-mykites-nixion/">ΜΥΚΗΤΕΣ ΝΥΧΙΩΝ ΟΝΥΧΟΜΥΚΗΤΙΑΣΗ</a></li>
+                                </ul>
+
+                            </li>
+
+                            <li class="sub-nav">
+                                <a href="apotrixosi/">ΑΠΟΤΡΙΧΩΣΗ&nbsp;<i class="fa fa-chevron-down"></i></a>
+
+                                <ul class="clearlist">
+                                    <li><a href="apotrixosi-prosopou/">ΠΡΟΣΩΠΟ</a></li>
+                                    <li><a href="apotrixosi-somatos/">ΣΩΜΑ</a></li>
+                                </ul>
+
+                            </li>
+
+                            <li class="sub-nav">
+                                <a href="therapeies-genika/">ΘΕΡΑΠΕΙΕΣ&nbsp;<i class="fa fa-chevron-down"></i></a>
+
+                                <ul class="clearlist">
+                                    <li><a href="therapeies-trihoptosis/">ΤΡΙΧΟΠΤΩΣΗ</a></li>
+                                    <li><a href="kittaritida/">ΚΥΤΤΑΡΙΤΙΔΑ</a></li>
+                                    <li><a href="evriaggies/">ΕΥΡΥΑΓΓΕΙΕΣ</a></li>
+                                    <li><a href="therapies-me-yalouroniko-fillers/">ΥΑΛΟΥΡΟΥΝΙΚΟ</a></li>
+                                    <li><a href="akmi/">ΑΚΜΗ</a></li>
+                                    <li><a href="therapeies-rytidvn-genika/">ΙΑΤΡΙΚΗΣ ΑΝΤΙΓΗΡΑΝΣΗΣ</a></li>
+                                </ul>
+                            </li>
+                                
+                            <li><a href="offers/">ΠΡΟΣΦΟΡΕΣ</a></li>
+                            <li><a href="blog/">BLOG</a></li>
+                            <li><a href="contact/">ΕΠΙΚΟΙΝΩΝΙΑ</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+            </nav>        
+            <!-- End Navigation panel -->
+            
+            <!-- Home Section -->
+            <section class="page-section bg-gray-lighter">
+                <div class="relative container-1400">
+
+                    <!-- Hero Content -->
+                    <div class="home-content">
+                        <div class="home-text align-center">
+                            <div class="row">
+                                <div class="col-sm-10 col-sm-offset-1">
+                                    <h1 class="hs-line-15 font-alt mb-0">ΣΥΣΦΙΞΗ ΣΩΜΑΤΟΣ</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Hero Content -->
+
+                </div>
+            </section>
+            <!-- End Home Section -->
+            
+            <!-- Profile Section -->
+            <section class="page-section wow fadeIn" data-wow-delay="0.1s" data-wow-duration="1.5s">
+                <div class="container-1400 relative">
+                    
+                    <div class="row">
+                        
+                        <div class="col-sm-12 col-lg-12">
+                            <div class="row">
+                                <div class="col-sm-6 col-lg-6">
+                                    <img src="images/soma/body-anorthosi.jpg" alt="" />
+                                </div>
+
+                                <div class="col-sm-6 col-lg-6">
+
+                                     <!--start services-->
+                                    <div class="row">
+                                        <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                                            <a href="easy-lift-hifu/" class="svc-box-cont">
+                                                <div class="svc-box">
+                                                    <h4>EASY LIFT HIFU</h4>
+                                                </div>
+                                            </a>                                                
+                                        </div>
+    
+                                        <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                                            <a href="radiosyxnotites-rf/" class="svc-box-cont">
+                                                <div class="svc-box">
+                                                    <h4>ΡΑΔΙΟΣΥΧΝΟΤΗΤΕΣ RF</h4>
+                                                </div>
+                                            </a>                                                
+                                        </div>
+
+                                        <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                                            <a href="mesotherapeia-somatos/" class="svc-box-cont">
+                                                <div class="svc-box">
+                                                    <h4>ΜΕΣΟΘΕΡΑΠΕΙΑ ΣΩΜΑΤΟΣ</h4>
+                                                </div>
+                                            </a>                                                
+                                        </div>
+
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="section-text-extra-margin mb-70 mb-xs-40">
+                                            
+                                            <ul class="list-unstyled lead"></ul>   
+                                            
+                                            <p class="justify-txt">
+                                                Η χαλάρωση της επιδερμίδας του σώματος καθώς και των μυών είναι κάτι σύνηθες και θα μπορούσαμε να πούμε αναπόφευκτο. Η πάροδος του χρόνου είναι ο βασικός λόγος που την προκαλεί. Κάποιοι παράγοντες σίγουρα επιταχύνουν τη διαδικασία αυτή. Ένας από αυτούς είναι η μεγάλη και απότομη απώλεια σωματικού βάρους.
+                                            </p>
+                                            
+                                            <p class="justify-txt">
+                                                Οι μεγάλες αυξομειώσεις του βάρους μας είναι ένα σοκ για ολόκληρο τον οργανισμό μας. Το δέρμα και οι μύες του σώματος μας χαλαρώνουν αφού δεν προλαβαίνουν να αναπληρώσουν το κολλαγόνο και την ελαστίνη. Τα δυο αυτά συστατικά είναι απαραίτητα για το εσωτερικό μέρος των ιστών μας. Οι ουσίες αυτές είναι που διατηρούν το σώμα μας σφριγηλό και το δέρμα του νεανικό.
+                                            </p>
+
+                                             <p class="justify-txt">
+                                                Επίσης οι ορμονικές διαταραχές σε έναν οργανισμό μπορούν να προκαλέσουν χαλάρωση στο σώμα. Η χαλάρωση μπορεί να είναι γενική ή να είναι εμφανής σε συγκεκριμένα σημεία του σώματος. Συνήθως αυτά είναι τα μπράτσα, κυρίως στις γυναίκες, τα πόδια και η κοιλιά.
+                                            </p>
+
+                                            <p class="justify-txt">
+                                                Όπως προαναφέραμε η χαλάρωση έχει δυο τύπους την <strong>επιδερμική</strong> και την <strong>μυϊκή</strong>. Η μια συνδέεται με την άλλη και για τον λόγο αυτό η σύσφιξη είναι μια σχετικά πολύπλοκη διαδικασία.
+                                            </p>
+
+                                            <p class="justify-txt">
+                                                Εμείς εδώ στα <strong>CityZen Club | Niki Fotopoulou MED</strong> διαθέτουμε τις πιο σύγχρονες μεθόδους και γνωρίζουμε τους σωστούς συνδυασμούς θεραπειών, για την άμεση επίτευξη του στόχου μας.
+                                            </p>
+
+                                            <p class="justify-txt">
+                                                Γνωρίζουμε καλά πως ο καθένας είναι μοναδικός και η κάθε περίπτωση χρειάζεται διαφορετικούς συνδυασμούς θεραπειών. Για αυτούς του λόγους έχουμε καθιερώσει ένα πρώτο <strong>Δωρεάν</strong> συμβουλευτικό ραντεβού με τους ιατρούς μας. 
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- End Profile Section -->            
+            
+            <!-- Divider -->
+            <div class="container-1400">
+                <hr class="mt-0 mb-0 black"/>
+            </div>
+            <!-- End Divider -->
+            
+            
+            <!-- Education Section -->
+            <section class="page-section wow fadeIn" data-wow-delay="0.1s" data-wow-duration="1.5s"></section>
+            <!-- End Education Section -->
+            
+            <!-- Divider -->
+            <div class="container-1600">
+                <hr class="mt-0 mb-0 black"/>
+                <hr class="mt-0 mb-0 black"/>
+            </div>
+            <!-- End Divider -->        
+            
+            <!-- Divider -->
+            <div class="container-1600">
+                <hr class="mt-0 mb-0 black"/>
+                <hr class="mt-0 mb-0 black"/>
+            </div>
+            <!-- End Divider -->
+            
+            <!-- Foter -->
+            <footer class="page-section bg-gold footer pb-30">
+                <!-- Grid container -->
+                <div class="container p-4">
+
+                    <!--Grid row-->
+                    <div class="row">
+                    <!--Grid column-->
+                        <div class="col-md-4 margin-block">
+                            <h5 class="text-uppercase white">ΥΠΗΡΕΣΙΕΣ</h5>
+
+                            <ul class="list-unstyled mb-0">
+                                <li>
+                                    <a href="apotrixosi/" class="white"><i class="fa fa-chevron-right"></i>&nbsp;ΑΠΟΤΡΙΧΩΣΗ</a>
+                                </li>
+                                <li>
+                                    <a href="adynatisma/" class="white"><i class="fa fa-chevron-right"></i>&nbsp;ΑΔΥΝΑΤΙΣΜΑ</a>
+                                </li>
+                                <li>
+                                    <a href="kittaritida/" class="white"><i class="fa fa-chevron-right"></i>&nbsp;ΚΥΤΤΑΡΙΤΙΔΑ</a>
+                                </li>
+                                <li>
+                                    <a href="therapeies-trihoptosis/" class="white"><i class="fa fa-chevron-right"></i>&nbsp;ΤΡΙΧΟΠΤΩΣΗ</a>
+                                </li>
+                                <li>
+                                    <a href="akmi/" class="white"><i class="fa fa-chevron-right"></i>&nbsp;ΑΚΜΗ</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-md-4">
+                        <h5 class="text-uppercase white">ΤΕΛΕΥΤΑΙΑ ΑΡΘΡΑ</h5>
+
+                        <?php
+
+                            include_once 'php/db_connection.php';
+                            include_once 'php/pdo_post.php';
+
+                            $db_class = new DbClass();
+                            $connection = $db_class->getConnection();
+
+                            $post_pdo = new Post($connection);
+
+                            $stmt = $post_pdo->readLatest();
+                            $count = $stmt->rowCount();
+                            //echo $count . " blog posts found!";
+                            //echo "<br/>";
+
+                            if($count > 0){
+
+                                while ($row = $stmt->fetch(PDO::FETCH_ASSOC)){
+
+                                    extract($row);
+                                    $short_text = substr($body, 23, 100);
+
+                                    $post_href = "post/?slug=".$slug;
+
+                                    echo '
+                                    <a href='.$post_href.'>
+                                        <div class="card blog-card-small mb-10">
+                                            <div class="row">
+                                                <div class="col-md-3">
+                                                    <img style="padding: 10px 0;"
+                                                        src="'.$image.'"
+                                                        alt="..."
+                                                        class="img-thumbnail"
+                                                    />
+                                                </div>
+                                                <div class="col-md-9">
+                                                    <div class="card-body white">
+                                                        <h2 class="card-sub align-left">'.$title.'</h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    ';
+                                }
+                            }
+
+                        ?>
+                        	
+                        </div>
+                        <!--Grid column-->
+
+                        <!--Grid column-->
+                        <div class="col-md-4">
+                            <h5 class="text-uppercase white">ΒΡΕΙΤΕ ΜΑΣ</h5>
+                            <ul class="list-unstyled mb-20">
+                                <li><i class="fa fa-map-marker"></i>&nbsp;Βύρωνος 5, 42131 Τρίκαλα</li>
+                                <li><a class="white" href="tel:2431102386"><i class="fa fa-phone"></i>&nbsp;2431-102386</a></li>
+                                <li><a class="white" href="mailto:info@cityzenclub.net"><i class="fa fa-envelope-open"></i>&nbsp;info@cityzenclub.net</a></li>
+                            </ul>
+
+                            <ul class="mb-70 list-unstyled text-center">
+                                <li>
+                                    <a class="white" href="https://www.facebook.com/cityzenclubtrikala"><i class="fa fa-facebook-official"></i>&nbsp;@cityzenclubtrikala</a>
+                                </li>
+                                <li>
+                                    <a class="white" href="https://www.instagram.com/cityzenclubtrikala/"><i class="fa fa-instagram"></i>&nbsp;@cityzenclubtrikala</a>
+                                </li>
+                                <li>
+                                    <a class="white" href="https://twitter.com/Cityzenclub1"><i class="fa fa-twitter"></i>&nbsp;@Cityzenclub1</a>
+                                </li>
+                            </ul>  
+
+                        </div>
+
+                        <!-- Full-width column --> 
+                        <div class="col-12">
+                            <!-- Footer Item Content -->
+                            <div class="text-center text-white py-2 bg-gold">
+                                <small class="text-center text-white">
+                                    Copyright <span>CITYZENCLUB</span><span>©</span><span class='mr-2'></span>
+                                    <span><script>document.write(new Date().getFullYear());</script></span> - <span>All Rights Reserved.</span>
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- End Foter -->
+        
+        
+        </div>
+        <!-- End Page Wrap -->
+        
+        
+        <!-- JS -->
+        <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+        <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>        
+        <script type="text/javascript" src="js/SmoothScroll.js"></script>
+        <script type="text/javascript" src="js/jquery.scrollTo.min.js"></script>
+        <script type="text/javascript" src="js/jquery.localScroll.min.js"></script>
+        <script type="text/javascript" src="js/jquery.viewport.mini.js"></script>
+        <script type="text/javascript" src="js/jquery.countTo.js"></script>
+        <script type="text/javascript" src="js/jquery.appear.js"></script>
+        <script type="text/javascript" src="js/jquery.sticky.js"></script>
+        <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
+        <script type="text/javascript" src="js/jquery.fitvids.js"></script>
+        <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="js/isotope.pkgd.min.js"></script>
+        <script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>
+        <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+        <!-- Replace test API Key "AIzaSyBfiIZSk_QC7UWgdGekKZLEUXUBi_mWPnE" with your own one below 
+        **** You can get API Key here - https://developers.google.com/maps/documentation/javascript/get-api-key -->
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBfiIZSk_QC7UWgdGekKZLEUXUBi_mWPnE"></script>
+        <script type="text/javascript" src="js/gmap3.min.js"></script>
+        <script type="text/javascript" src="js/wow.min.js"></script>
+        <script type="text/javascript" src="js/masonry.pkgd.min.js"></script>
+        <script type="text/javascript" src="js/jquery.simple-text-rotator.min.js"></script>
+        <script type="text/javascript" src="js/all.js"></script>
+        <script type="text/javascript" src="js/contact-form.js"></script>
+        <script type="text/javascript" src="js/jquery.ajaxchimp.min.js"></script>        
+        <!--[if lt IE 10]><script type="text/javascript" src="js/placeholder.js"></script><![endif]-->
+        
+    </body>
+</html>
